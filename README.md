@@ -4,4 +4,4 @@
 * Інформація про підписку містить тривалість, адрес одержувача та інформацію про послуги.
 * Про кожний план підписки можна отримати детальну інформацію, а саме: назву, опис, фото, категорію, ціну, постачаємий продукт та частоту отримання.
 * Можливість перегляду інформації про постачальника послуг.
-[![subscriptionsite.png](https://i.postimg.cc/Xv6dKgz4/subscriptionsite.png)](https://postimg.cc/WdSdT0VH)
+[![subscriptionsite1.png](https://i.postimg.cc/FKKwcMsM/subscriptionsite1.png)](https://postimg.cc/75pBrQz9)
